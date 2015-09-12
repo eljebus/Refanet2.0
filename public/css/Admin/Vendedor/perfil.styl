@@ -1,0 +1,129 @@
+@import 'styleAdmin'
+
+
+#contentContainer
+	overflow hidden
+	.form-group
+		input,select
+			margin-bottom 1em
+	#profileForm
+		margin-top 1.5em
+		overflow hidden
+		.izquierda
+			width 40%
+			.perfil
+				overflow hidden
+				margin-bottom 0.9em
+
+			.doble
+				width 46.6% 
+				margin-right 5%
+			button
+				width 60%
+		.derecha
+			width 50%
+			text-align center	
+			img
+				width 100px
+			#imagen
+				position relative
+				width 234px
+				margin auto
+				margin-top 0.5em
+				input
+					position absolute
+					top 0
+					left 0
+					opacity 0
+			button
+				width 50%
+				margin auto
+				margin-top 2.5em
+	#conekta
+		display block !important
+		width: 994px;
+		margin: auto !important;
+		margin-bottom 3em
+		margin-top 3em !important
+		#conektaForm
+			margin-top 3em
+			margin-bottom 3em
+			.doble
+				width 46.6% 
+				margin-right 4%
+			button
+				width 150px
+				
+	#profileFormContainer
+		margin-top -5px
+		border-top solid 5px #15D4E5
+		padding-top 2em
+		padding-bottom 1em
+		font-family: "Lato", Helvetica, Arial, sans-serif;
+		overflow hidden
+		article
+			font-size 16px
+		form
+			max-width 350px
+			margin auto
+	#suscriptionForm
+		max-width 100% !important
+		overflow hidden
+		margin-top 1em
+		overflow hidden	
+		#divContainer
+			overflow hidden
+		#subscriptions
+			width 150px
+			float left
+			margin-top 2em
+		.floatLeft,.floatRight
+			width 45% !important
+			.checkbox
+				width 48%
+				cursor pointer
+		.categorys,.marks
+			padding 1em
+			border solid 1px #ccc
+			margin-top 1em
+			.checkboxList
+				margin 0
+				padding 0
+				li
+					display inline-block
+					width 100%
+					font-size 18px
+					margin-bottom 0.5em
+					label
+						font-weight normal !important
+						margin-left -40px
+						cursor pointer
+						&:before
+							content: "\e738";
+							font-family icomoon	
+							font-size 0.7em
+							opacity 1
+							color #ccc
+							background #ccc
+							padding 4px
+							transition all ease 0.5s
+							cursor pointer
+					input[type='checkbox']
+						opacity  0
+						width 50px
+						&:checked + label
+							&:before
+								background #3bafda
+								color white
+								content: "\e6fe";
+								font-weight normal !important
+							
+#save
+	width 30%
+	margin-top 2em
+.search 
+	margin-left 37% !important
+#subNavNew
+	overflow hidden
+#subNav
+	display none

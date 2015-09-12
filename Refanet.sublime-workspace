@@ -1,0 +1,865 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"content",
+				"contentCenter"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"conten",
+				"contentCenter"
+			],
+			[
+				"Categr",
+				"Categoria"
+			],
+			[
+				"categor",
+				"categorias"
+			],
+			[
+				"categ",
+				"categorias"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"sus",
+				"suscripcion"
+			],
+			[
+				"data",
+				"dataPublic"
+			],
+			[
+				"cate",
+				"categoria"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"refac",
+				"refacciones"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ke",
+				"keywords"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"su",
+				"suggestion"
+			],
+			[
+				"pr",
+				"protected"
+			],
+			[
+				"com",
+				"compras"
+			],
+			[
+				"COm",
+				"CompraRepo"
+			],
+			[
+				"Co",
+				"Comprador"
+			],
+			[
+				"form",
+				"payForm"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"he",
+				"headerContent"
+			],
+			[
+				"co",
+				"codigo"
+			],
+			[
+				"pay",
+				"payFormOxxo"
+			],
+			[
+				"creat",
+				"createCharge"
+			],
+			[
+				"user",
+				"userdata"
+			],
+			[
+				"categr",
+				"category"
+			],
+			[
+				"clie",
+				"clientes"
+			],
+			[
+				"suscr",
+				"suscripciones"
+			],
+			[
+				"ofer",
+				"ofertasArray"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"pub",
+				"pubId"
+			],
+			[
+				"pu",
+				"pubId"
+			],
+			[
+				"publ",
+				"publicaciones"
+			],
+			[
+				"id",
+				"idRefaccion"
+			],
+			[
+				"sear",
+				"searchForm"
+			],
+			[
+				"array",
+				"arrayPublicaciones"
+			],
+			[
+				"refa",
+				"refacciones"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"arra",
+				"arrayPublicaciones"
+			],
+			[
+				"where",
+				"whereNotIn"
+			],
+			[
+				"c",
+				"client"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"sub",
+				"subNav"
+			],
+			[
+				"s",
+				"suscripciones"
+			],
+			[
+				"Ve",
+				"Vendedor"
+			],
+			[
+				"vende",
+				"Vendedor"
+			],
+			[
+				"ca",
+				"catCliente"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"Date",
+				"DateInterval"
+			],
+			[
+				"Pag",
+				"PagosRepo"
+			],
+			[
+				"Cont",
+				"ContratoRepo"
+			],
+			[
+				"ventas",
+				"Ventas"
+			],
+			[
+				"to",
+				"tokenParams"
+			],
+			[
+				"vendedor",
+				"vendedor"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"pro",
+				"profileForm"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"repu",
+				"reputacion"
+			],
+			[
+				"cali",
+				"calificacion"
+			],
+			[
+				"Oferta",
+				"oferta"
+			],
+			[
+				"nueva",
+				"nuevaPregunta"
+			],
+			[
+				"publi",
+				"publish"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"Com",
+				"CompraRepo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Vendedor",
+				"vendedor"
+			],
+			[
+				"idO",
+				"idOffer"
+			],
+			[
+				"no",
+				"nota"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"puc",
+				"publicaciones"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"S",
+				"Suscripciones"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"add",
+				"addComment"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"u",
+				"uploadImage"
+			],
+			[
+				"TICKET",
+				"ticket"
+			],
+			[
+				"Register",
+				"registerDevice"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"categoria",
+				"categoria"
+			],
+			[
+				"Au",
+				"Authenticate"
+			],
+			[
+				"st",
+				"studentId"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 4273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/pdf.html",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/MainController.php",
+			"settings":
+			{
+				"buffer_size": 11715,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/pay.js",
+		"/C/laravel/Refanet2.0/app/Http/Controllers/BuyerController.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/MainController.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/SellerController.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/methodSeller.blade.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/conekta.js",
+		"/C/laravel/Refanet2.0/app/Http/Controllers/AdminController.php",
+		"/C/laravel/Refanet2.0/app/Http/Controllers/MainController.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/BuyerController.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/AdminController.php",
+		"/C/laravel/Refanet2.0/resources/views/layout.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/layout.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/layout.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/pdf.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/methodSeller.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/detailsRegister.blade.php",
+		"/C/laravel/Refanet2.0/app/Http/routes.php",
+		"/C/laravel/Refanet2.0/resources/views/terminos.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/nueva.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/index.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/post.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/pieza.blade.php",
+		"/C/laravel/Refanet2.0/public/css/registroSeller.styl",
+		"/C/laravel/Refanet2.0/app/Http/Controllers/SellerController.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/method.blade.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Vendedor/metodo.styl",
+		"/C/laravel/Refanet2.0/public/js/detalles.js",
+		"/C/laravel/Refanet2.0/public/js/Comprador/nueva.js",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/PubliRepo.php",
+		"/C/laravel/Refanet2.0/resources/views/index.blade.php",
+		"/C/laravel/Refanet2.0/public/css/style.styl",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/laravel/Refanet2.0/resources/views/begin.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/register.blade.php",
+		"/C/laravel/Refanet2.0/public/js/vendors/facebookRegister.js",
+		"/C/laravel/Refanet2.0/public/js/vendors/passValidator.js",
+		"/C/laravel/Refanet2.0/public/js/login.js",
+		"/C/laravel/Refanet2.0/public/css/index.styl",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/profile.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/SuscripcionesRepo.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/autoload.php",
+		"/C/laravel/Refanet2.0/composer.json",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/.env",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/.env.example",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Categoria.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Marca.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Refaccion.php",
+		"/C/laravel/Refanet2.0/vendor/autoload.php",
+		"/C/laravel/Refanet2.0/public/error_log",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/app.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/autoload 2.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Publicacion.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/index.blade.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Vendedor/styleAdmin.styl",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/RefaRepo.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/suggestions.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Keyword.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/userProfile.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/SugerenciasRepo.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Vendedor.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Contrato.php",
+		"/C/laravel/Refanet2.0/bootstrap/cache/compiled.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/newMark.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/ofertas.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/post.blade.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Comprador/styleAdmin.styl",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/chart.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/CompraRepo.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/layout.blade.php",
+		"/C/laravel/Refanet2.0/config/chartjs.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/profile.blade.php",
+		"/C/laravel/Refanet2.0/config/app.php",
+		"/C/laravel/Refanet2.0/.env.example",
+		"/C/laravel/Refanet2.0/.env",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/listaSoporte.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/soporte.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/listaSoporte.blade.php",
+		"/C/laravel/Refanet2.0/public/js/Vendedor/pay.js",
+		"/C/laravel/Refanet2.0/public/js/Comprador/search.js",
+		"/C/laravel/Refanet2.0/public/css/Admin/Vendedor/perfil.styl",
+		"/C/laravel/Refanet2.0/app/Http/Middleware/Login.php",
+		"/C/laravel/Refanet2.0/resources/views/subscriptions.blade.php",
+		"/C/laravel/Refanet2.0/public/js/Vendedor/metodo.js",
+		"/C/Users/eljebus/Desktop/HTML",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/ticket.blade.php",
+		"/C/laravel/Refanet2.0/app/Http/Kernel.php",
+		"/C/laravel/Refanet2.0/app/Http/Middleware/LoginAdmin.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/UsersRepo.php",
+		"/C/laravel/Refanet2.0/public/js/Administrador/preguntas.js",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/soporte.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/search.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/marcas.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/categorias.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/newCategory.blade.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Administrador/newCategory.styl",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/CategoryRepo.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Administrador/newMark.styl",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/MarkRepo.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Administrador/marcas.styl",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/ticket.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Administrador/index.blade.php",
+		"/C/laravel/Refanet2.0/public/css/Admin/Administrador/profile.styl",
+		"/C/laravel/Refanet2.0/public/css/Admin/Administrador/styleAdmin.styl",
+		"/C/laravel/Refanet2.0/resources/views/index.php",
+		"/C/laravel/Refanet2.0/public/js/Vendedor/search.js",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/search.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/search.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Suscripciones.php",
+		"/C/laravel/Refanet2.0/public/js/Vendedor/preguntas.js",
+		"/C/laravel/Refanet2.0/app/Http/Middleware/MarcaSeller.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/ClienteRepo.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/ContratoRepo.php",
+		"/C/laravel/Refanet2.0/public/js/Vendedor/oferta.js",
+		"/C/laravel/Refanet2.0/app/Http/Middleware/LoginSeller.php",
+		"/C/laravel/Refanet2.0/config/database.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/compras.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Privilegios.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Comprador/buy.blade.php",
+		"/C/laravel/Refanet2.0/resources/views/Admin/Vendedor/ventas.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/ClienteC.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/VendedorRepo.php",
+		"/C/laravel/Refanet2.0/public/js/Comprador/method.js",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/OfertaRepo.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Entities/Ofertas.php",
+		"/C/laravel/Refanet2.0/resources/views/finishSeller.blade.php",
+		"/C/laravel/Refanet2.0/app/BuyMe/Repos/PagosRepo.php",
+		"/C/laravel/Refanet2.0/public/js/pay.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"put('c",
+			"set('c",
+			"key_",
+			"key",
+			"registerU",
+			"newU",
+			"login",
+			"public_",
+			"'/home/refanetc/public_html/images/Usuarios/'.Request::get('Mail').'/';",
+			"public_p",
+			"images/",
+			"public_",
+			"public",
+			"terminos",
+			"Los usuarios sólo podrán utilizar los Datos Personales de otros usuarios obtenidos en el sitio para",
+			"los usuarios",
+			"3",
+			"make",
+			"file",
+			"archivo",
+			"file",
+			"registerF",
+			"contentCe",
+			"bigT",
+			"overflow",
+			"logo",
+			"getPayContract",
+			"saveP",
+			"pdf",
+			"400",
+			"margin",
+			"registerd",
+			"register",
+			"registerd",
+			"save",
+			"nuevaP",
+			"nueva(",
+			"nueva",
+			"getMar",
+			"index",
+			"details",
+			"vertical",
+			"vertica",
+			"dd(",
+			"dd",
+			"public_",
+			"public_ht",
+			"public",
+			"edit",
+			"s",
+			"saveSe",
+			"saveSu",
+			"saveSubs",
+			"saveSusb",
+			"getD",
+			"dd",
+			"getDa",
+			"saveSe",
+			"saveS",
+			"registerDe",
+			"session::put('Ca",
+			"registerDe",
+			"session::put('Ca",
+			"session::put",
+			"public_pa",
+			"public",
+			"public_",
+			"mkdir",
+			"larav",
+			"inde",
+			"logo",
+			"quiero",
+			"redirect",
+			"reputaci",
+			"finish",
+			"finalizar",
+			"quiero",
+			"exit",
+			"cerrar",
+			"salir",
+			"ena",
+			"enea",
+			"getPay",
+			"setP",
+			"redirect",
+			"method",
+			"metodo",
+			"referencia",
+			"profil",
+			"pago",
+			"pr",
+			"proximo",
+			"$",
+			"submit",
+			"newPa",
+			"pay",
+			"plan",
+			"payF",
+			"categor",
+			"login",
+			"saveQuestion",
+			"pregunta",
+			"makeC",
+			"login",
+			"redirect",
+			"login",
+			"redirec",
+			"nombre",
+			"profile",
+			"dataU",
+			"ticket",
+			"soporte",
+			"24%18%",
+			"24%",
+			"userPro",
+			"showCa",
+			"begin",
+			"index",
+			"search",
+			"redirect",
+			"endif",
+			"form",
+			"sear",
+			"form",
+			"sear",
+			"json",
+			"ajax",
+			"archivo"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Contrato",
+			"Pagos",
+			"ReputacionU",
+			"ReputacionVRepo",
+			"Comentarios",
+			"Notas",
+			"Ofertas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/layout.blade.php",
+					"settings":
+					{
+						"buffer_size": 4273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								378,
+								378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/pdf.html",
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/MainController.php",
+					"settings":
+					{
+						"buffer_size": 11715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4121,
+								4121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3642.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true
+}

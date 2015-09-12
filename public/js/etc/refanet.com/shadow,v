@@ -1,0 +1,39 @@
+head	1.2;
+access;
+symbols;
+locks
+	refanetc:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2015.08.25.23.44.56;	author refanetc;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2015.08.25.23.44.56;	author refanetc;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@contacto:$6$vXsYUc9OqKlhS0Zl$sFxlI9c9VbpK7NGznuCe1x0KJRqMr1gbT2tajx2WRwrpOGgSRIych4MRqa4i2rYmkxjDy4S5gTsgS23bhPZGF.:16672::::::
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

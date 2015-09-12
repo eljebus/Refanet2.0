@@ -1,0 +1,116 @@
+@import 'styleAdmin'
+
+body
+	#contentContainer
+		max-width 994px;
+		margin auto !important
+		padding-left 1em 
+		padding-right 1em 
+		margin-top 1em !important
+		min-height 470px;
+		#imagenes
+			margin-top 3em
+			margin-bottom 3em
+			.izquierda
+				width 30%
+				margin-right 2%
+				height 300px;
+				overflow hidden
+				border-radius 5px
+				.fullSize
+					position absolute 
+					top 10px
+					right 10px
+					padding 0.3em
+					cursor pointer
+					border-radius 5px					
+				li
+					position relative
+					overflow hidden 
+					height 90px
+					margin-bottom 5px
+					border solid 1px #ccc 
+					cursor pointer
+					border-radius 5px
+					img
+						width 100%
+		.derecha
+			width 67%
+			span
+				margin-right 5px
+				min-width 150px
+			h2
+				margin-top 0
+			article 
+				margin-top 1em
+		.offers
+			margin-bottom 3em
+			line-height: 1.5em !important
+			li 
+				overflow hidden
+				.info
+					.avatar
+						width 40px
+						overflow hidden
+						height 40px
+						img
+							width 100%
+					.price
+						margin-left 4em
+					.profile
+						cursor pointer
+				article
+					margin-top 1em
+					font-size 16px
+				.icons
+					margin-top 0.8em
+					.photos
+						margin-left 20%
+						cursor pointer
+					.buy
+						margin-left 42%
+					.coment
+						cursor pointer
+				.newComent
+					transition all ease 0.5s
+					padding-top 0
+					height 0
+					overflow hidden
+					.avatar
+						width 40px
+						overflow hidden
+						img
+							width 100%
+					textarea 
+						width 94% !important
+						transition all ease 0.5s
+						height 40px
+						overflow hidden
+					button
+						margin-top 0.5em
+						padding 0.2em !important
+						width 150px
+						margin-left 20px
+			.groupComments
+				transition all ease 0.5s
+				height 0
+				overflow hidden
+				.comments
+					background #f7f6f4
+					.avatar
+						width 40px
+						overflow hidden
+						img
+							width 100%
+					.textComment
+						width 93%
+						margin-left 1%
+						margin-top 0
+						line-height: 1.5em !important
+					
+#perfil
+	.modal-body
+		text-align center
+.modal-body
+	max-height 400px
+	overflow hidden

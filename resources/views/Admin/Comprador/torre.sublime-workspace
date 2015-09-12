@@ -1,0 +1,1202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"label",
+				"label	<label> with <input>"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"se",
+				"segundo"
+			],
+			[
+				"select",
+				"selector"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"pa",
+				"palette"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"fl",
+				"floatRight"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"input",
+				"input	input - button"
+			],
+			[
+				"COMENTAR",
+				"comentarios"
+			],
+			[
+				"comen",
+				"comentNum"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"per",
+				"perfil"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"array",
+				"arrayPhotos"
+			],
+			[
+				"show",
+				"showComments"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"comentar",
+				"comentario"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"alto",
+				"altoInt"
+			],
+			[
+				"al",
+				"altoExt"
+			],
+			[
+				"Error",
+				"errorController"
+			],
+			[
+				"id",
+				"idOffer"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"login",
+				"loginSuccess"
+			],
+			[
+				"item",
+				"itemContainer"
+			],
+			[
+				"p",
+				"pswd"
+			],
+			[
+				"bor",
+				"border-box"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"FL",
+				"float"
+			],
+			[
+				"floa",
+				"floatLeft"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"tot",
+				"totalKm"
+			],
+			[
+				"ca",
+				"cantidadItems"
+			],
+			[
+				"cantidad",
+				"cantidadItems"
+			],
+			[
+				"all",
+				"allItems"
+			],
+			[
+				"precio",
+				"precioTotal"
+			],
+			[
+				"prec",
+				"precioTotal"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"idClien",
+				"idClientes"
+			],
+			[
+				"nombre",
+				"Nombre"
+			],
+			[
+				"data",
+				"dataMail"
+			],
+			[
+				"create",
+				"createClient"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"colle",
+				"collections"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"to",
+				"town"
+			],
+			[
+				"total",
+				"totalKm"
+			],
+			[
+				"u",
+				"utilityCar"
+			],
+			[
+				"case",
+				"casetas"
+			],
+			[
+				"can",
+				"cantidad"
+			],
+			[
+				"me",
+				"measures"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"por",
+				"porcentaje"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"toa",
+				"totalItems"
+			],
+			[
+				"Font",
+				"font-size"
+			],
+			[
+				"clien",
+				"clientOrder"
+			],
+			[
+				"conte",
+				"contenido"
+			],
+			[
+				"PEDIDO",
+				"pedido"
+			],
+			[
+				"idpedido",
+				"idpedido"
+			],
+			[
+				"Peid",
+				"Pedidos"
+			],
+			[
+				"Produc",
+				"ProductController"
+			],
+			[
+				"get",
+				"getOrder"
+			],
+			[
+				"pay",
+				"payPdf"
+			],
+			[
+				"form",
+				"formaEnvio"
+			],
+			[
+				"cart",
+				"cartArray"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"new",
+				"newOrder"
+			],
+			[
+				"Status",
+				"imap_status"
+			],
+			[
+				"tota",
+				"total"
+			],
+			[
+				"card",
+				"card-form"
+			],
+			[
+				"sele",
+				"selectMethod"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"c",
+				"click	click"
+			],
+			[
+				"orig",
+				"originalPrice"
+			],
+			[
+				"mAR",
+				"margin-right"
+			],
+			[
+				"PADD",
+				"padding-right"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ori",
+				"originalPrice"
+			],
+			[
+				"err",
+				"errorDistance"
+			],
+			[
+				"distanc",
+				"distancia"
+			],
+			[
+				"Id",
+				"idClientes"
+			],
+			[
+				"sess",
+				"session_commit"
+			],
+			[
+				"ret",
+				"retorno"
+			],
+			[
+				"pu",
+				"put"
+			],
+			[
+				"del",
+				"delItem"
+			],
+			[
+				"dia",
+				"dialogConfirm"
+			],
+			[
+				"name",
+				"namecolor"
+			],
+			[
+				"Ite",
+				"itemName"
+			],
+			[
+				"pr",
+				"producto"
+			],
+			[
+				"not",
+				"notLike"
+			],
+			[
+				"icon",
+				"iconCart"
+			],
+			[
+				"idC",
+				"idClientes"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"dat",
+				"datos"
+			],
+			[
+				"ac",
+				"access_token"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"face",
+				"faceLogin"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"ite",
+				"itemNumber"
+			],
+			[
+				"anima",
+				"animationConfirm"
+			],
+			[
+				"va",
+				"validarForm"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"color",
+				"colorPicker"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/carpeta/torre/app/routes.php",
+			"settings":
+			{
+				"buffer_size": 751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/app/views/contacto.blade.php",
+			"settings":
+			{
+				"buffer_size": 2792,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/public/css/style.styl",
+			"settings":
+			{
+				"buffer_size": 1762,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/public/css/utylities.styl",
+			"settings":
+			{
+				"buffer_size": 3313,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/app/views/layout.blade.php",
+			"settings":
+			{
+				"buffer_size": 1513,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/app/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2243,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/carpeta/torre/public/css/contacto.styl",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/carpeta/torre/public/css/contacto.styl",
+		"/C/carpeta/torre/public/js/slider.js",
+		"/C/carpeta/torre/public/js/sliderMaquinaria.js",
+		"/C/carpeta/torre/app/views/layout.blade.php",
+		"/C/carpeta/torre/public/css/utylities.styl",
+		"/C/carpeta/torre/app/views/index.blade.php",
+		"/C/carpeta/torre/public/css/index.styl",
+		"/C/carpeta/torre/public/css/style.styl",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/paths.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/paths 2.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/app.php",
+		"/C/Users/eljebuspc/Desktop/webfontkit-20140905-235705/stylesheet.css",
+		"/C/Users/eljebuspc/Desktop/webfontkit-20140905-235705/agencyb-demo.html",
+		"/C/Users/eljebuspc/Desktop/webfontkit-20140905-235705/specimen_files/specimen_stylesheet.css",
+		"/C/Users/eljebuspc/Desktop/webfontkit-20140905-235705/arial-demo.html",
+		"/C/carpeta/torre/app/views/layout.blade",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Vendedor/post.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/styleAdmin.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/utylities.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/nueva.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/index.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/nueva.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/soporte.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/listaSoporte.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/post.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/soporte.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/layout.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/profile.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/perfil.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/vendors/css/site.css",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Vendedor/pieza.blade.php",
+		"/C/Users/eljebuspc/Desktop/bootflat.github.io-master/bootflat.github.io-master/index.html",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/index.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Vendedor/styleAdmin.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/style.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/controllers/SellerController.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Vendedor/index.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Vendedor/layout.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Vendedor/index.styl",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/AdminController 2.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/AdminController.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/routes.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/finalizar.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/registroSeller.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/controllers/MainController.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/finishSeller.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/finalizarRegistro.css",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/layout.blade.php",
+		"/C/Users/eljebuspc/Desktop/Flat-UI-master/index.html",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/subscriptions.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/login.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/facebookLogin.js",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/index.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/index.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/detailsRegister.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/Comprador/ofertas.js",
+		"/C/xampp/htdocs/Refanet/Refanet/app/controllers/BuyerController.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/origin.blade.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/database.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/autoload.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/autoload 2.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/ticket.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/buy.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/card.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/Comprador/method.js",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/buy.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/finalizar.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/Comprador/finalizar.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/facebookRegister.js",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/register.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/finishRegister.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/direct.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/Comprador/card.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/Comprador/post.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/begin.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/error.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/areas.js",
+		"/C/Users/eljebuspc/Desktop/autosize-master/autosize-master/jquery.autosize.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/error",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/inicio.css",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/uploadImages.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/detalles.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/registro.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/finalizarRegistro.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/inicio.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/detallesRegistro.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/js/vendors/passValidator.js",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/soporte.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/styleAdmin.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/Admin/index.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/index.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/layout.blade.php",
+		"/C/Users/eljebuspc/Desktop/Paula/index.html",
+		"/C/xampp/htdocs/Refanet/Refanet/app/config/app.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/styleAdmin.styl",
+		"/C/xampp/htdocs/Refanet/Refanet/app/controllers/AdminController.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/Admin/index.php",
+		"/C/xampp/htdocs/Refanet/Refanet/app/views/layoutAdmin.blade.php",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/detallesRegistro.css",
+		"/C/xampp/htdocs/Refanet/Refanet/public/css/icon.css",
+		"/C/xampp/htdocs/Arista/Arista/public/css/productos.css",
+		"/C/xampp/htdocs/Arista/Arista/app/views/layout.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/app/controllers/CartController.php",
+		"/C/xampp/htdocs/Arista/Arista/public/js/carrito.js",
+		"/C/xampp/htdocs/Arista/Arista/app/views/Carrito.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/public/js/cart.js",
+		"/C/xampp/htdocs/Arista/Arista/app/views/Producto.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/app/BuyMe/Config/Config.php",
+		"/C/xampp/htdocs/Arista/Arista/public/js/productos.js",
+		"/C/xampp/htdocs/Arista/Arista/app/views/index.blade.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/layout.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/app/views/Pedido.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/app/controllers/ClientController.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/mail.php",
+		"/C/xampp/htdocs/Arista/Arista/public/js/tarjeta.js",
+		"/C/xampp/htdocs/Arista/Arista/app/views/TicketCart.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/app/controllers/ProductController.php",
+		"/C/xampp/htdocs/Arista/Arista/app/config/mail.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/mail 2.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/fz3temp-1/ClientController.php",
+		"/C/Users/eljebuspc/AppData/Local/Temp/Rar$EXa0.992/index.html",
+		"/C/xampp/htdocs/Arista/Arista/public/js/procesar.js",
+		"/C/xampp/htdocs/Arista/Arista/app/views/Orden.blade.php",
+		"/C/xampp/htdocs/Arista/Arista/public/vendors/js/fbLogin.js",
+		"/C/xampp/htdocs/Arista/Arista/app/BuyMe/Repos/ClientRepo.php",
+		"/C/xampp/htdocs/Arista/Arista/app/views/Politicas.blade.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"px",
+			"solid",
+			"text-sh",
+			"text-sa",
+			"box-sha",
+			"box",
+			"png",
+			"1px",
+			"fixe",
+			"fix",
+			"buscar",
+			"vender",
+			"97%",
+			".dropdown-toggle",
+			".btn-group.open .dropdown-toggle",
+			"element.style {\n}\nCompradormedia=\"all\"\nbody #superior header nav ul #profile button, body #superior header nav ul #changeProfile button, body #superior header nav ul #notes button {\nbackground: transparent !important;\npadding: 0 !important;\n-webkit-border-radius: 0;\nborder-radius: 0;\nborder: none !important;\n}\nCompradormedia=\"all\"\n.btn-group.open",
+			"buscar",
+			"h1",
+			"font-f",
+			"14px",
+			"box",
+			"acep",
+			"TAG",
+			"FLAT",
+			"float",
+			"foto",
+			"modelo",
+			"comenta",
+			"derech",
+			"derecha",
+			"izquier",
+			"subNa",
+			"ticke",
+			"hidden",
+			"permiso",
+			"login",
+			"good",
+			"goos",
+			"finalizar.js",
+			"tu come",
+			"aqui",
+			"aqui+",
+			"aqui",
+			"Admin",
+			"profile",
+			"avatar",
+			"ajax",
+			"modal",
+			"id=\"pro",
+			"id='pro",
+			"modal",
+			"comprar",
+			"texta",
+			"text",
+			"top-none",
+			"vmedi",
+			"1px",
+			"grou",
+			"gripu",
+			"photos",
+			"fotos",
+			"imagen",
+			"image",
+			"open",
+			"contacto",
+			"function adj",
+			"em",
+			"64",
+			"minH",
+			",10",
+			"function ad",
+			"$ta",
+			"maxH",
+			"function ad",
+			"adjus",
+			"keyU",
+			"64",
+			"px",
+			"minH",
+			"min he",
+			"height",
+			"hei",
+			"rows",
+			"row",
+			"+1",
+			"altoExt",
+			"comentar",
+			"text",
+			"texta",
+			"text",
+			">\n",
+			"REFANET",
+			"rojo",
+			"image",
+			"agregar",
+			"shad",
+			"text",
+			"formulario",
+			"norma",
+			"botones",
+			"button",
+			"ma",
+			"maá",
+			"mas",
+			"4p",
+			"-",
+			"refane",
+			"ingresar",
+			"acepto",
+			"texta",
+			"ultimo",
+			"active",
+			"nueva",
+			"act",
+			"ac",
+			"sha",
+			"text",
+			"active",
+			"008C98",
+			"0",
+			"shad",
+			"index",
+			"utilities.styl",
+			"title",
+			"refanet",
+			"super",
+			"inline",
+			"solid"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Comprador",
+			"",
+			"px !important",
+			"",
+			"nvio",
+			"",
+			"direction",
+			"",
+			"840",
+			"acordion",
+			"accordion",
+			"acordion",
+			"",
+			"/images",
+			"../images",
+			"titulos",
+			"/images",
+			"/js",
+			"/css",
+			"/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/carpeta/torre/app/routes.php",
+					"settings":
+					{
+						"buffer_size": 751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								422
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/carpeta/torre/app/views/contacto.blade.php",
+					"settings":
+					{
+						"buffer_size": 2792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2566,
+								2566
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/carpeta/torre/public/css/style.styl",
+					"settings":
+					{
+						"buffer_size": 1762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/carpeta/torre/public/css/utylities.styl",
+					"settings":
+					{
+						"buffer_size": 3313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								531
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/carpeta/torre/app/views/layout.blade.php",
+					"settings":
+					{
+						"buffer_size": 1513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								975,
+								975
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/carpeta/torre/app/views/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 2243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							],
+							[
+								296,
+								296
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/carpeta/torre/public/css/contacto.styl",
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								734,
+								734
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 250.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}

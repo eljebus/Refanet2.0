@@ -1,0 +1,72 @@
+@import 'styleAdmin'
+
+body
+	#contentContainer
+		max-width 994px;
+		margin auto !important
+		padding-left 1em 
+		padding-right 1em 
+		margin-top 1em !important
+		min-height 470px;
+		h3
+			margin-top 1.5em
+		#registerForm
+			margin-top -5px
+			padding-top 1em
+			overflow hidden
+			form
+				input,select
+					margin-bottom 1em
+				#izquierda
+					float left
+					width 40%
+					overflow hidden
+				#derecha
+					float right
+					width 55%
+					margin-left 5%
+					textarea
+						margin-top 21px
+						margin-bottom 21px
+						height: 110px;
+					button[type='submit']
+						float right
+						width 300px
+				.images
+					width 100%
+					border dotted 2px #bdc3c7
+					border-radius 5px
+					margin-bottom 1em
+					padding 0.5em
+					padding-bottom: 0 !important;
+					height 100px
+					.item
+						margin-left 5px
+					#plusImage
+						background #E56B15
+						text-align center
+						padding 0.7em
+						font-size 14px !important
+						span
+							font-size 16px
+						&:hover span
+							font-size 18px
+							transition all ease 0.3s
+					li
+						width 23.5%
+						position relative
+						height 80px
+						cursor pointer
+						overflow hidden
+						img
+							width 100%
+
+					
+						#add-imagen
+							position absolute
+							top 0 
+							left 0
+							width 100%
+							height 100%
+							opacity 0
+							cursor pointer

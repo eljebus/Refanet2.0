@@ -1,0 +1,43 @@
+@import 'styleAdmin'
+
+body
+	#contentContainer
+		max-width 994px;
+		margin auto !important
+		padding-left 1em 
+		padding-right 1em 
+		margin-top 1.5em !important
+		h2
+			margin-top 0
+		#container
+			margin-top 2em
+			.floatLeft
+				width 250px
+				overflow hidden
+				max-height 250px;
+				border solid 1px #ccc
+				img	
+					width  100%
+			.floatRight
+				width 70%
+				.vendedor,.monto,.calificar
+					display block
+					margin-bottom 0.5em
+				.calificar
+					margin-top 1em
+					width 164px
+					span
+						font-size 25px
+						cursor pointer
+						transition all ease 0.5s
+					&:hover span
+						color #ec971f
+				.calificar > span:hover ~ span
+					color #34495e
+				button
+					width 200px
+					margin-top 2em
+.form-control
+	width 96%
+.floatRight
+	float right

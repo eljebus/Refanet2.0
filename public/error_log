@@ -1,0 +1,6 @@
+[07-Sep-2015 18:33:41 America/Mexico_City] PHP Fatal error:  Class 'ComposerAutoloaderInit723bf2bbfe98cc710eb08e5abbc34a87' not found in /home/refanetc/Refanet/vendor/autoload.php on line 7
+[07-Sep-2015 18:34:20 America/Mexico_City] PHP Fatal error:  Class 'ComposerAutoloaderInit723bf2bbfe98cc710eb08e5abbc34a87' not found in /home/refanetc/Refanet/vendor/autoload.php on line 7
+[07-Sep-2015 18:39:53 America/Mexico_City] PHP Fatal error:  Class 'ComposerAutoloaderInit' not found in /home/refanetc/Refanet/vendor/autoload.php on line 7
+[07-Sep-2015 18:47:07 America/Mexico_City] PHP Fatal error:  Class 'ComposerAutoloaderInit723bf2bbfe98cc710eb08e5abbc34a87' not found in /home/refanetc/Refanet/vendor/autoload.php on line 7
+[07-Sep-2015 18:51:54 America/Mexico_City] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/refanetc/Refanet/bootstrap/app.php on line 14
+[07-Sep-2015 18:51:55 America/Mexico_City] PHP Fatal error:  Class 'Illuminate\Foundation\Application' not found in /home/refanetc/Refanet/bootstrap/app.php on line 14

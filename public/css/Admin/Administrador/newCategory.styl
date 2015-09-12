@@ -1,0 +1,61 @@
+@import 'styleAdmin'
+
+body
+	#contentContainer
+		max-width 994px;
+		margin auto !important
+		padding-left 1em 
+		padding-right 1em 
+		margin-top 1em !important
+
+		.izquierda
+			width 45%
+			margin-right 9%
+			display inline-block
+			vertical-align top
+			button
+				width 200px !important
+				float right
+			.images
+				width 100%
+				border dotted 2px #bdc3c7
+				border-radius 5px
+				margin-bottom 1em
+				padding 0.5em
+				padding-bottom: 0 !important;
+				.item
+					margin-left 4px
+				#plusImage
+					background #E56B15
+					text-align center
+					padding 0.7em
+					&:hover span
+						font-size 24px
+						transition all ease 0.3s
+				li
+					width 23.9%
+					position relative
+					height 80px
+					cursor pointer
+					overflow hidden
+					img
+						width 100%
+
+				
+					#add-imagen
+						position absolute
+						top 0 
+						left 0
+						width 100%
+						height 100%
+						opacity 0
+						cursor pointer
+		.derecha
+			width 45%
+			display inline-block
+			vertical-align top
+			textarea 
+				height 140px
+				margin-bottom 1em
+			
+				
